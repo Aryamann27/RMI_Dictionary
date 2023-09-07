@@ -1,0 +1,72 @@
+apple, a sweet and crisp fruit
+banana, a yellow tropical fruit
+cat, a domesticated feline animal
+dog, a loyal and friendly pet
+elephant, a large and majestic mammal
+flower, a colorful and fragrant bloom
+garden, a place for cultivating plants
+house, a place where people live
+ice cream, a frozen sweet dessert
+jungle, a dense and wild forest
+kite, a flying toy on a string
+lemon, a sour citrus fruit
+mountain, a tall landform with peaks
+notebook, a paper for writing notes
+ocean, a vast body of saltwater
+piano, a musical instrument with keys
+rainbow, a colorful arc in the sky
+sunshine, the warm light from the sun
+turtle, a slow-moving reptile
+violin, a stringed musical instrument
+zebra, a black-and-white striped animal
+beach, a sandy shore by the sea
+candle, a source of light with a wick
+dolphin, an intelligent marine mammal
+eagle, a majestic bird of prey
+forest, a dense and wooded area
+guitar, a stringed musical instrument
+hammock, a hanging bed for relaxation
+island, a landmass surrounded by water
+jellyfish, a gelatinous sea creature
+koala, a marsupial native to Australia
+lighthouse, a tall structure with a light
+mushroom, a fungus with a cap
+narwhal, a marine mammal with a tusk
+octopus, a cephalopod with tentacles
+panda, a bear native to China
+quokka, a small herbivorous marsupial
+rhinoceros, a large horned mammal
+seahorse, a tiny marine fish
+tiger, a powerful big cat
+umbrella, a device to shield from rain
+volcano, a mountain that erupts
+whale, a massive marine mammal
+xylophone, a musical percussion instrument
+yak, a long-haired bovine
+zeppelin, a large airship
+antelope, a fleet-footed ungulate
+butterfly, a colorful flying insect
+cheetah, a swift big cat
+dandelion, a yellow wildflower
+elephant, a large pachyderm
+flamingo, a tall wading bird
+giraffe, a long-necked mammal
+hedgehog, a spiky nocturnal animal
+iguana, a reptile with scales
+jaguar, a spotted big cat
+kangaroo, a hopping marsupial
+lion, a majestic carnivore
+meerkat, a small burrowing mammal
+nightingale, a melodious songbird
+ostrich, a large flightless bird
+penguin, a tuxedoed seabird
+quail, a small game bird
+rabbit, a burrowing mammal
+sloth, a slow-moving tree-dweller
+toucan, a colorful beaked bird
+umbrellabird, a rainforest avian
+vulture, a scavenging bird of prey
+wallaby, a small marsupial
+x-ray fish, a see-through aquatic
+yak, a shaggy-haired bovine
+zebra, a black-striped equid
